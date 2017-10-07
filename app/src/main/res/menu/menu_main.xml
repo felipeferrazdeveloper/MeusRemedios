@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.ferraz.meusremedios.MainActivity">
+    <item
+        android:id="@+id/sair"
+        android:orderInCategory="100"
+        android:title="Sair" />
+    <item
+        android:id="@+id/medicamentosAnvisa"
+        android:orderInCategory="200"
+        android:title="Medic. ANVISA" />
+</menu>
